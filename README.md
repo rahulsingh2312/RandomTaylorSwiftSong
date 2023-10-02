@@ -17,4 +17,12 @@ uses spotify libraries for playing the song
 
 
 
-use ur rapid api key pls 
+use ur rapid api key pls ﻿
+
+
+
+![Screenshot_20231003-033513](https://github.com/rahulsingh2312/RandomTaylorSwiftSong/assets/111289008/86c206bc-75ab-4319-ab37-bfad574b3e4b)
+
+
+
+
