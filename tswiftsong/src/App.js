@@ -16,7 +16,7 @@ function RandomTaylorSwiftSong() {
         limit: '20',
       },
       headers: {
-        'X-RapidAPI-Key': 'your api',
+        'X-RapidAPI-Key': 'YOUR_RAPID_API_KEY',
         'X-RapidAPI-Host': 'spotify23.p.rapidapi.com',
       },
     };
@@ -31,7 +31,7 @@ function RandomTaylorSwiftSong() {
       setRandomSong(randomSongName);
 
       // Fetch the YouTube video here using the song title
-      const apiKey = 'your api';
+      const apiKey = 'YOUR_YOUTUBE_API_KEY';
       const searchUrl = `https://www.googleapis.com/youtube/v3/search?key=${apiKey}&q=${encodeURIComponent(
         randomSongName
       )}&type=video`;
@@ -62,9 +62,12 @@ function RandomTaylorSwiftSong() {
 
   return (
     <div>
-      <button onClick={getRandomSong}>Get Random Taylor Swift Song</button>
-      <p>{randomSong}</p>
+      <div className='wrapper'>
+      <button onClick={getRandomSong} className='butt'>Get Random Taylor Swift Song</button>
+      <div className='paragraph'>
+      {randomSong}</div>
       {videoId && <YouTube videoId={videoId} opts={opts} />} {/* Embed the YouTube video */}
+      </div>
     </div>
   );
 }
