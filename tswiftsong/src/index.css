@@ -8,7 +8,7 @@ body {
   background-image: url("../public/g2wgyf6fagc41.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   align-items: center;
   height:100vh;
@@ -105,4 +105,11 @@ backdrop-filter: blur(5.5px);
 font-style: normal;
 line-height: normal;
   
+}
+
+@media (max-width: 767px) {
+  body{
+  width:767px ;
+  height: 100vh; 
+}/* Adjust this for smaller screens */
 }
