@@ -107,9 +107,3 @@ line-height: normal;
   
 }
 
-@media (max-width: 767px) {
-  body{
-  width:767px ;
-  height: 100vh; 
-}/* Adjust this for smaller screens */
-}
