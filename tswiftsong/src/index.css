@@ -8,11 +8,12 @@ body {
   background-image: url("../public/g2wgyf6fagc41.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% auto;
+  background-size: cover;
   background-position: center;
   align-items: center;
+  height:100vh;
   justify-content: center;
-  /* overflow: hidden; */
+  overflow: hidden; 
 }
 
 code {
