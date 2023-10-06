@@ -8,7 +8,7 @@ body {
   background-image: url("../public/g2wgyf6fagc41.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: 100% auto;
   background-position: center;
   align-items: center;
   justify-content: center;
