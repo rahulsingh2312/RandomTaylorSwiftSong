@@ -12,6 +12,7 @@ body {
   background-position: center;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
 }
 
 code {
@@ -88,10 +89,7 @@ backdrop-filter: blur(5.5px);
   --_t: var(--h);
   --_p: 105%;
 }
-.songname{
- 
 
-}
 .paragraph{
   display: inline-block;
   margin: auto;

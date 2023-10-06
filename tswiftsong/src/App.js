@@ -7,6 +7,8 @@ function RandomTaylorSwiftSong() {
   const [videoId, setVideoId] = useState('');
 
   const getRandomSong = async () => {
+    console.log('API Key:', process.env.REACT_APP_RAPIDAPI_KEY);
+
     const options = {
       method: 'GET',
       url: 'https://spotify23.p.rapidapi.com/artist_singles/',
@@ -16,7 +18,7 @@ function RandomTaylorSwiftSong() {
         limit: '20',
       },
       headers: {
-        'X-RapidAPI-Key': 'YOUR_RAPID_API_KEY',
+        'X-RapidAPI-Key': `${process.env.REACT_APP_RAPIDAPI_KEY}`,
         'X-RapidAPI-Host': 'spotify23.p.rapidapi.com',
       },
     };
@@ -31,7 +33,7 @@ function RandomTaylorSwiftSong() {
       setRandomSong(randomSongName);
 
       // Fetch the YouTube video here using the song title
-      const apiKey = 'YOUR_YOUTUBE_API_KEY';
+      const apiKey = `${process.env.REACT_APP_YOUTUBE_API_KEY}`;
       const searchUrl = `https://www.googleapis.com/youtube/v3/search?key=${apiKey}&q=${encodeURIComponent(
         randomSongName
       )}&type=video`;
