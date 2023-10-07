@@ -28,7 +28,7 @@ export default function RandomTaylorSwiftSong() {
   
   
       try {
-        const response = await axios.get('/api/taylordata');
+        const response = await axios.get('https://server-9nb0.onrender.com/api/taylordata');
         const randomIndex = Math.floor(
           Math.random() * response.data.data.artist.discography.singles.items.length
         );
