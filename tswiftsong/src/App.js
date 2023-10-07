@@ -1,6 +1,10 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import YouTube from 'react-youtube';
+import Background from "./components/Background/Background.tsx";
+import ts_bg from "./background/ts_bg.png"
+import ts_folk from "./background/folklore.png"
+
 
 function RandomTaylorSwiftSong() {
   const [randomSong, setRandomSong] = useState('');
@@ -63,14 +67,20 @@ function RandomTaylorSwiftSong() {
   };
 
   return (
-    <div>
-      <div className='wrapper'>
-      <button onClick={getRandomSong} className='butt'>Get Random Taylor Swift Song</button>
-      <div className='paragraph'>
-      {randomSong}</div>
-      {videoId && <YouTube videoId={videoId} opts={opts} />} {/* Embed the YouTube video */}
+    <main>
+      <div
+        className="h-screen p-16 bg-cover bg-center overflow-auto font-line"
+        style={{
+          backgroundImage: `url(${ts_bg})`,
+          backgroundRepeat: 'no-repeat',
+        }}
+      >
+        <Background className=""/>
       </div>
-    </div>
+    </main>
+
+
+
   );
 }
 
