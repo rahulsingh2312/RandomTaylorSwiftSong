@@ -1,0 +1,1174 @@
+{
+    "data": {
+      "artist": {
+        "discography": {
+          "singles": {
+            "totalCount": 62,
+            "items": [
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "6eKdbTio5viiwJ5FE5J8wU",
+                      "uri": "spotify:album:6eKdbTio5viiwJ5FE5J8wU",
+                      "name": "Lavender Haze (Acoustic Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-03-31T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f233c37dddd971caf61515cf",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851f233c37dddd971caf61515cf",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f233c37dddd971caf61515cf",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "J7AEE56YQCqQp57pHBfpGg",
+                        "shareUrl": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU?si=J7AEE56YQCqQp57pHBfpGg"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    },
+                    {
+                      "id": "54F0VYmKpYQok1ydOZhsYC",
+                      "uri": "spotify:album:54F0VYmKpYQok1ydOZhsYC",
+                      "name": "Lavender Haze (Acoustic Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-03-31T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b814f5151732be8669a381cc",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851b814f5151732be8669a381cc",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b814f5151732be8669a381cc",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "w88-t36xRXyTwMlnjN_6AQ",
+                        "shareUrl": "https://open.spotify.com/album/54F0VYmKpYQok1ydOZhsYC?si=w88-t36xRXyTwMlnjN_6AQ"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5LyzI39gkePgpHz38bEQIr",
+                      "uri": "spotify:album:5LyzI39gkePgpHz38bEQIr",
+                      "name": "Lavender Haze (Remixes)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-03-03T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f7c84273e5c8ecb7594b4357",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851f7c84273e5c8ecb7594b4357",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f7c84273e5c8ecb7594b4357",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "FLJP-V0iQTWZvoFWYa95IQ",
+                        "shareUrl": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr?si=FLJP-V0iQTWZvoFWYa95IQ"
+                      },
+                      "tracks": {
+                        "totalCount": 5
+                      }
+                    },
+                    {
+                      "id": "5iiEJ3MVz1a8tfPj3bKdOa",
+                      "uri": "spotify:album:5iiEJ3MVz1a8tfPj3bKdOa",
+                      "name": "Lavender Haze (Remixes)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-03-03T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e023815d534ed12bfeda658d46f",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048513815d534ed12bfeda658d46f",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733815d534ed12bfeda658d46f",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "t3fHtS7oRzean_Q4rZUJqg",
+                        "shareUrl": "https://open.spotify.com/album/5iiEJ3MVz1a8tfPj3bKdOa?si=t3fHtS7oRzean_Q4rZUJqg"
+                      },
+                      "tracks": {
+                        "totalCount": 5
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5h060Rb0cfAGuny0L51zqV",
+                      "uri": "spotify:album:5h060Rb0cfAGuny0L51zqV",
+                      "name": "Lavender Haze (Felix Jaehn Remix)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-02-10T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0290212229c9230e320fe0ecd3",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485190212229c9230e320fe0ecd3",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27390212229c9230e320fe0ecd3",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "f4jNwSAwSxOUT6UXw3I30w",
+                        "shareUrl": "https://open.spotify.com/album/5h060Rb0cfAGuny0L51zqV?si=f4jNwSAwSxOUT6UXw3I30w"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5vgWXUueeEU2labRz6TlNv",
+                      "uri": "spotify:album:5vgWXUueeEU2labRz6TlNv",
+                      "name": "Anti-Hero (Acoustic Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-11-25T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e020fc559ebbed8b0b100ad206c",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048510fc559ebbed8b0b100ad206c",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2730fc559ebbed8b0b100ad206c",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "pDpqrOkkT2aWg6QZj9piuw",
+                        "shareUrl": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv?si=pDpqrOkkT2aWg6QZj9piuw"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "20wq0dFrgEhhulGXqnb4A6",
+                      "uri": "spotify:album:20wq0dFrgEhhulGXqnb4A6",
+                      "name": "Anti-Hero (ILLENIUM Remix)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-11-18T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02eb7289d463cd524a93b722c9",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851eb7289d463cd524a93b722c9",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273eb7289d463cd524a93b722c9",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "sP0elo8YTOWtP3KBB0KCng",
+                        "shareUrl": "https://open.spotify.com/album/20wq0dFrgEhhulGXqnb4A6?si=sP0elo8YTOWtP3KBB0KCng"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "7irmI5g3OLC1gUXlxysOWt",
+                      "uri": "spotify:album:7irmI5g3OLC1gUXlxysOWt",
+                      "name": "Anti-Hero (Remixes)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-11-11T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e029954fa9f0ba8534c3897b59d",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048519954fa9f0ba8534c3897b59d",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2739954fa9f0ba8534c3897b59d",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "zUd4hGAZRMKfU77AENNBNw",
+                        "shareUrl": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt?si=zUd4hGAZRMKfU77AENNBNw"
+                      },
+                      "tracks": {
+                        "totalCount": 5
+                      }
+                    },
+                    {
+                      "id": "1UPhbHGeoVyk7RSbfjJMOA",
+                      "uri": "spotify:album:1UPhbHGeoVyk7RSbfjJMOA",
+                      "name": "Anti-Hero (Remixes)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-11-11T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0287d0c57cea4046763b498b15",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485187d0c57cea4046763b498b15",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27387d0c57cea4046763b498b15",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "2Z5jzu3iSZit3hzPaep5Og",
+                        "shareUrl": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA?si=2Z5jzu3iSZit3hzPaep5Og"
+                      },
+                      "tracks": {
+                        "totalCount": 5
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "18DEtVsRVQ4rxqnOIAPwRB",
+                      "uri": "spotify:album:18DEtVsRVQ4rxqnOIAPwRB",
+                      "name": "Anti-Hero (feat. Bleachers)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-11-08T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0250a1e24dde78df1d0ebc68ef",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485150a1e24dde78df1d0ebc68ef",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27350a1e24dde78df1d0ebc68ef",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "haXkPf0lRB2RyE0zgD-Y0w",
+                        "shareUrl": "https://open.spotify.com/album/18DEtVsRVQ4rxqnOIAPwRB?si=haXkPf0lRB2RyE0zgD-Y0w"
+                      },
+                      "tracks": {
+                        "totalCount": 2
+                      }
+                    },
+                    {
+                      "id": "51hV7ASoVjOVuIhbib79We",
+                      "uri": "spotify:album:51hV7ASoVjOVuIhbib79We",
+                      "name": "Anti-Hero (feat. Bleachers)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-11-08T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bea0ad79ece43713d89264f4",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851bea0ad79ece43713d89264f4",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bea0ad79ece43713d89264f4",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "p_2g7VieTfayS3p_pc9ksQ",
+                        "shareUrl": "https://open.spotify.com/album/51hV7ASoVjOVuIhbib79We?si=p_2g7VieTfayS3p_pc9ksQ"
+                      },
+                      "tracks": {
+                        "totalCount": 2
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5Bwg2XxrjTlrNy6BC7KQZf",
+                      "uri": "spotify:album:5Bwg2XxrjTlrNy6BC7KQZf",
+                      "name": "Carolina (From The Motion Picture “Where The Crawdads Sing”)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-06-24T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e022c683c1b9fa1b711499408f7",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048512c683c1b9fa1b711499408f7",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732c683c1b9fa1b711499408f7",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "VpI6GHSXQMeMn0CGXvlKrg",
+                        "shareUrl": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf?si=VpI6GHSXQMeMn0CGXvlKrg"
+                      },
+                      "tracks": {
+                        "totalCount": 2
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "2O1NYIBQCUobrL97A2Unk8",
+                      "uri": "spotify:album:2O1NYIBQCUobrL97A2Unk8",
+                      "name": "All Too Well (10 Minute Version) (The Short Film)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-06-11T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e028e16c6e20dbed531a9006d58",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048518e16c6e20dbed531a9006d58",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738e16c6e20dbed531a9006d58",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "P3KbYqoHTciumKgHrIOxGg",
+                        "shareUrl": "https://open.spotify.com/album/2O1NYIBQCUobrL97A2Unk8?si=P3KbYqoHTciumKgHrIOxGg"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "3In1CblWZswwun5MhOa10y",
+                      "uri": "spotify:album:3In1CblWZswwun5MhOa10y",
+                      "name": "This Love (Taylor’s Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-05-06T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b7fe6e9265a84c3b6eb66d34",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851b7fe6e9265a84c3b6eb66d34",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b7fe6e9265a84c3b6eb66d34",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "yvAZrYxuQ6yjY56xtHYqiQ",
+                        "shareUrl": "https://open.spotify.com/album/3In1CblWZswwun5MhOa10y?si=yvAZrYxuQ6yjY56xtHYqiQ"
+                      },
+                      "tracks": {
+                        "totalCount": 2
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "0vkAczpFKCazPKaoLtnBr0",
+                      "uri": "spotify:album:0vkAczpFKCazPKaoLtnBr0",
+                      "name": "The Joker And The Queen (feat. Taylor Swift)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-02-11T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0289aff4625958eac8d16535c7",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485189aff4625958eac8d16535c7",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27389aff4625958eac8d16535c7",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "MAvUzEkbSKm5AWfxufnh0Q",
+                        "shareUrl": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0?si=MAvUzEkbSKm5AWfxufnh0Q"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "6d8IUfMwq7HGCnR2efXjdm",
+                      "uri": "spotify:album:6d8IUfMwq7HGCnR2efXjdm",
+                      "name": "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-01-21T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e53252ce47982a3d555a6b3b",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851e53252ce47982a3d555a6b3b",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e53252ce47982a3d555a6b3b",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "zBYona89Sb-wtnOtKGWelQ",
+                        "shareUrl": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm?si=zBYona89Sb-wtnOtKGWelQ"
+                      },
+                      "tracks": {
+                        "totalCount": 2
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5f4rbgZJhYp4hgswKri00b",
+                      "uri": "spotify:album:5f4rbgZJhYp4hgswKri00b",
+                      "name": "Christmas Tree Farm (Old Timey Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-11-22T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e028538f5677d3ffe87257ac6c2",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048518538f5677d3ffe87257ac6c2",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738538f5677d3ffe87257ac6c2",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "K_MA8r_-Rji465uPxIoYDg",
+                        "shareUrl": "https://open.spotify.com/album/5f4rbgZJhYp4hgswKri00b?si=K_MA8r_-Rji465uPxIoYDg"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "4qgs0gHJBgycj5SKqafFOB",
+                      "uri": "spotify:album:4qgs0gHJBgycj5SKqafFOB",
+                      "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-11-18T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0270f88b5ee2da16d3f3929fea",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485170f88b5ee2da16d3f3929fea",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27370f88b5ee2da16d3f3929fea",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "n-GuOxTgQxOyUH2b-TykWA",
+                        "shareUrl": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB?si=n-GuOxTgQxOyUH2b-TykWA"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    },
+                    {
+                      "id": "6iLFzruqCNyIXjIgRioa2c",
+                      "uri": "spotify:album:6iLFzruqCNyIXjIgRioa2c",
+                      "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-11-18T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e023f7e3672f0a294f7d9f03f9e",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048513f7e3672f0a294f7d9f03f9e",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733f7e3672f0a294f7d9f03f9e",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "1CAwDeYjTRi45mNjbobIqw",
+                        "shareUrl": "https://open.spotify.com/album/6iLFzruqCNyIXjIgRioa2c?si=1CAwDeYjTRi45mNjbobIqw"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "1qEs8XpGGduMUF7jfAs5l3",
+                      "uri": "spotify:album:1qEs8XpGGduMUF7jfAs5l3",
+                      "name": "The More Red (Taylor’s Version) Chapter",
+                      "type": "EP",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-11-12T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e508c5f5080d8a6c9db576df",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851e508c5f5080d8a6c9db576df",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e508c5f5080d8a6c9db576df",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "RT-dhzr1QGewswN45NiGRw",
+                        "shareUrl": "https://open.spotify.com/album/1qEs8XpGGduMUF7jfAs5l3?si=RT-dhzr1QGewswN45NiGRw"
+                      },
+                      "tracks": {
+                        "totalCount": 6
+                      }
+                    },
+                    {
+                      "id": "5mSOpBwtuQUIg69cClKiFF",
+                      "uri": "spotify:album:5mSOpBwtuQUIg69cClKiFF",
+                      "name": "The More Red (Taylor’s Version) Chapter",
+                      "type": "EP",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-11-12T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02a429eabac299e532042fdd15",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851a429eabac299e532042fdd15",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273a429eabac299e532042fdd15",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "AOz7mpbQSGyha1JbNSNiXg",
+                        "shareUrl": "https://open.spotify.com/album/5mSOpBwtuQUIg69cClKiFF?si=AOz7mpbQSGyha1JbNSNiXg"
+                      },
+                      "tracks": {
+                        "totalCount": 6
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "4eZKjfeKPSwd6NYsmlKjuR",
+                      "uri": "spotify:album:4eZKjfeKPSwd6NYsmlKjuR",
+                      "name": "Safe & Sound (Taylor's Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-11-12T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e024f719ea76d1b7048664b8fec",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048514f719ea76d1b7048664b8fec",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734f719ea76d1b7048664b8fec",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "u0qghOOxTZqbrQNDsaVORQ",
+                        "shareUrl": "https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR?si=u0qghOOxTZqbrQNDsaVORQ"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "6AeF9IkXFpHz5H3wUNX3L3",
+                      "uri": "spotify:album:6AeF9IkXFpHz5H3wUNX3L3",
+                      "name": "Eyes Open (Taylor's Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-11-12T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d5cc403148a5161b4561cf61",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851d5cc403148a5161b4561cf61",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d5cc403148a5161b4561cf61",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "b93oaGtATxGCBZzbjPBYGw",
+                        "shareUrl": "https://open.spotify.com/album/6AeF9IkXFpHz5H3wUNX3L3?si=b93oaGtATxGCBZzbjPBYGw"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5hxKw2PurC0i1VVJMAntDU",
+                      "uri": "spotify:album:5hxKw2PurC0i1VVJMAntDU",
+                      "name": "Wildest Dreams (Taylor's Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-09-17T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02eb10050f6fe8e2783a91a4b1",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851eb10050f6fe8e2783a91a4b1",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273eb10050f6fe8e2783a91a4b1",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "jJ8uC-PCRxaf1nGcmAEslw",
+                        "shareUrl": "https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU?si=jJ8uC-PCRxaf1nGcmAEslw"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "49yiYOnz2UyaNl72xvDERt",
+                      "uri": "spotify:album:49yiYOnz2UyaNl72xvDERt",
+                      "name": "Renegade (Pop Version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-08-17T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f0b56f34301a37d015cbb678",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851f0b56f34301a37d015cbb678",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f0b56f34301a37d015cbb678",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "lLNt4zGsRaSeEUoDaxt0eg",
+                        "shareUrl": "https://open.spotify.com/album/49yiYOnz2UyaNl72xvDERt?si=lLNt4zGsRaSeEUoDaxt0eg"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "40cMfQDrBCDmOaWZuNEmKq",
+                      "uri": "spotify:album:40cMfQDrBCDmOaWZuNEmKq",
+                      "name": "the lakes (original version)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2021,
+                        "isoString": "2021-07-24T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e027d60bda8f85d66599c3fe851",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048517d60bda8f85d66599c3fe851",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737d60bda8f85d66599c3fe851",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "KODtvX6_T2OODJMisWmavQ",
+                        "shareUrl": "https://open.spotify.com/album/40cMfQDrBCDmOaWZuNEmKq?si=KODtvX6_T2OODJMisWmavQ"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "extensions": []
+  }
