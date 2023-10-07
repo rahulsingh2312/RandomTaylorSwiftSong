@@ -58,7 +58,7 @@ export default function RandomTaylorSwiftSong() {
       }
     };
     const [opts, setOpts] = useState({
-        height: '390',
+        height: '590',
         width: getVideoWidth(),
         playerVars: {
           autoplay: 1, // Auto-play the video
@@ -132,7 +132,7 @@ function getVideoWidth() {
     } else {
       // For smaller screens (mobile view), you can set a smaller width
       // Adjust this value as needed for your specific design
-      return '360';
+      return '300';
     }
   }
 
