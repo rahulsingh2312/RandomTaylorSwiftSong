@@ -9,10 +9,11 @@ how to start it :
 yo dawgs To locally start this WebApp in your device Go to branch 
 `local-host` 
 and then in terminal write
-```javascript 
-npm i 
+`
+npm i
+HTTPS=true 
 npm start
-
+`
 
 
 n for nigga 
