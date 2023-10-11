@@ -101,14 +101,14 @@ export default function RandomTaylorSwiftSong() {
 
   return (
     <div
-      className=" h-screen p-8 sm:p-16 bg-cover bg-center overflow-auto font-line"
+      className=" h-screen p-8 sm:p-16 bg-cover bg-center overflow-auto font-line justify-center items-center"
       style={{
         backgroundImage: `url(${artist == "Taylor Swift" ? ts_bg : kw_bg})`,
         backgroundRepeat: "no-repeat",
       }}
     >
       <div
-        className="flex justify-center items-center rounded-xl border border-[#737373] h-full w-full p-8"
+        className="flex justify-center bg-gray-950 bg-opacity-50 items-center rounded-xl border border-[#737373] h-auto w-full p-8"
         style={{
           fill: "linear-gradient(92deg, rgba(255, 255, 255, 0.25) -43.85%, rgba(217, 217, 217, 0.10) 55.97%)",
           strokeWidth: "1px",
