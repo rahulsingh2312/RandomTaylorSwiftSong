@@ -121,7 +121,7 @@ export default function RandomTaylorSwiftSong() {
           <div>
             <button
               onClick={toggle}
-              className="transition ease-in-out duration-700 text-white mx-20 mb-10 bg-blue-700 hover:bg-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-gray-900 dark:focus:ring-blue-800"
+              className="transition ease-in-out duration-700 text-white mx-20 mb-10 bg-gray-700 hover:bg-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center border border-[#ffffff] inline-flex items-center dark:bg-opacity-60 dark:hover:bg-gray-900 dark:focus:ring-blue-800"
             >
               {artist}{" "}
               <div>
