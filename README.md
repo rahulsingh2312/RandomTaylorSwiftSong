@@ -6,9 +6,12 @@ Its a react app
 how to start it :
 
  "
-yo dawgs To locally start this WebApp in your device Go to branch `local-host' and then in terminal write
-' npm i 
-npm start '
+yo dawgs To locally start this WebApp in your device Go to branch 
+`local-host` 
+and then in terminal write
+```javascript 
+npm i 
+npm start ```
 n for nigga 
 Ty contribute if u r a true taylor swift fan or if u r a kanye hater
 
