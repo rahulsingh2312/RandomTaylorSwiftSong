@@ -11,7 +11,10 @@ yo dawgs To locally start this WebApp in your device Go to branch
 and then in terminal write
 ```javascript 
 npm i 
-npm start ```
+npm start
+
+
+
 n for nigga 
 Ty contribute if u r a true taylor swift fan or if u r a kanye hater
 
