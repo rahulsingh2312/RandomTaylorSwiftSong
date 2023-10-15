@@ -5,7 +5,7 @@ import YouTube from "react-youtube";
 // import fs from 'fs'
 
 export default function RandomTaylorSwiftSong() {
-  const [randomSong, setRandomSong] = useState(`Taylor's Version `);
+  const [randomSong, setRandomSong] = useState("");
   const [videoId, setVideoId] = useState("");
   const [artist, setArtist] = useState("Taylor Swift");
   const toggle = () => {
@@ -34,6 +34,7 @@ export default function RandomTaylorSwiftSong() {
     //   };
 
     try {
+      if(artist=="Taylor Swift"){
       const response = await axios.get(
         "https://server-9nb0.onrender.com/api/taylordata"
       );
@@ -45,7 +46,9 @@ export default function RandomTaylorSwiftSong() {
         response.data.data.artist.discography.singles.items[randomIndex]
           .releases.items[0].name;
       setRandomSong(randomSongName);
-
+      }else{
+        
+      }
       // Fetch the YouTube video here using the song title
       const apiKey = `${process.env.REACT_APP_YOUTUBE_API_KEY}`;
       const searchUrl = `https://www.googleapis.com/youtube/v3/search?key=${apiKey}&q=${encodeURIComponent(
@@ -113,7 +116,7 @@ export default function RandomTaylorSwiftSong() {
           fill: "linear-gradient(92deg, rgba(255, 255, 255, 0.25) -43.85%, rgba(217, 217, 217, 0.10) 55.97%)",
           strokeWidth: "1px",
           stroke: "rgba(255, 255, 255, 0.60)",
-          backdropFilter: "blur(6px)",
+          backdropFilter: "blur(0px)",
         }}
       >
         <div className=""></div>
@@ -121,7 +124,7 @@ export default function RandomTaylorSwiftSong() {
           <div>
             <button
               onClick={toggle}
-              className="transition ease-in-out duration-700 text-white mx-20 mb-10 bg-gray-700 hover:bg-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center border border-[#ffffff] inline-flex items-center dark:bg-opacity-60 dark:hover:bg-gray-900 dark:focus:ring-blue-800"
+              className="transition ease-in-out w-40 duration-700 text-white mx-20 mb-10 bg-gray-700 hover:bg-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center border border-[#ffffff] inline-flex items-center dark:bg-opacity-60 dark:hover:bg-gray-900 dark:focus:ring-blue-800"
             >
               {artist}{" "}
               <div>
@@ -129,7 +132,10 @@ export default function RandomTaylorSwiftSong() {
               </div>
             </button>
             <div className="text-2xl sm:text-4xl font-bold text-pink-400 /90 text-center">
-              {randomSong}
+              
+            {videoId && {randomSong}}
+            {!videoId && artist=="Kanye West" && <h1>Kanye's version</h1> }
+            {!videoId && artist=="Taylor Swift" && <h1> Taylor's version</h1> }
             </div>
           </div>
           {!videoId && (
