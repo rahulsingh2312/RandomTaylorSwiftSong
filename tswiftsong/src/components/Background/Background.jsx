@@ -56,7 +56,7 @@ export default function RandomTaylorSwiftSong() {
             KanyeWestSongs.length
         );
         console.log(randomIndex)
-         randomSongName = KanyeWestSongs[randomIndex];
+         randomSongName = KanyeWestSongs[randomIndex] + "kanye west";
         console.log(randomSongName)
         setRandomSong(randomSongName);
       }
