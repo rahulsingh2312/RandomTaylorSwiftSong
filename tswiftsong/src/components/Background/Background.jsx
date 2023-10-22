@@ -144,7 +144,7 @@ export default function RandomTaylorSwiftSong() {
             </button>
             <div className="text-2xl sm:text-4xl font-bold text-pink-400 /90 text-center">
               
-            {videoId && {randomSong}}
+            {videoId && randomSong}
             {!videoId && artist=="Kanye West" && <h1>Kanye's version</h1> }
             {!videoId && artist=="Taylor Swift" && <h1> Taylor's version</h1> }
             </div>
