@@ -12,10 +12,10 @@ export default function RandomTaylorSwiftSong() {
   const toggle = () => {
     setArtist(artist === "Taylor Swift" ? "Kanye West" : "Taylor Swift");
   };
-  const ts = "/Taylor Swift.png";
-  const kw = `/Kanye West.png`;
-  const ts_bg = "/ts_bg.png";
-  const kw_bg = "/kw_bg.png";
+  const ts = "/Taylor Swift.webp";
+  const kw = `/Kanye West.webp`;
+  const ts_bg = "/ts_bg.webp";
+  const kw_bg = "/kw_bg.webp";
 
   const getRandomSong = async () => {
     //   console.log('API Key:', process.env.REACT_APP_RAPIDAPI_KEY);
