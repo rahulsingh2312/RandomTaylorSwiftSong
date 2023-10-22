@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import YouTube from "react-youtube";
+import KanyeWestSongs from "../../kanyedata";
 // import fs from 'fs'
 
 export default function RandomTaylorSwiftSong() {
@@ -34,6 +35,7 @@ export default function RandomTaylorSwiftSong() {
     //   };
 
     try {
+      var randomSongName = null;
       if(artist=="Taylor Swift"){
       const response = await axios.get(
         "https://server-9nb0.onrender.com/api/taylordata"
@@ -42,12 +44,21 @@ export default function RandomTaylorSwiftSong() {
         Math.random() *
           response.data.data.artist.discography.singles.items.length
       );
-      const randomSongName =
+       randomSongName =
         response.data.data.artist.discography.singles.items[randomIndex]
           .releases.items[0].name;
       setRandomSong(randomSongName);
+      console.log(randomSongName)
       }else{
-        
+        console.log("hi")
+        const randomIndex = Math.floor(
+          Math.random() *
+            KanyeWestSongs.length
+        );
+        console.log(randomIndex)
+         randomSongName = KanyeWestSongs[randomIndex];
+        console.log(randomSongName)
+        setRandomSong(randomSongName);
       }
       // Fetch the YouTube video here using the song title
       const apiKey = `${process.env.REACT_APP_YOUTUBE_API_KEY}`;

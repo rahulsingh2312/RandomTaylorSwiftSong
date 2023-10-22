@@ -1,5 +1,4 @@
-{
-    "Kanye West Songs": [
+const KanyeWestSongs =  [
       "'03 Bonnie & Clyde",
       "4th Dimension",
       "24",
@@ -267,5 +266,6 @@
           "Ye vs. the People",
           "Yikes"
         ]
-      }
+      
+export default KanyeWestSongs;
         
