@@ -7,6 +7,7 @@ import KanyeWestSongs from "../../kanyedata";
 
 export default function RandomTaylorSwiftSong() {
   const [randomSong, setRandomSong] = useState("");
+const [randomSongvisible , setRandomSongvisible] = useState("");
   const [videoId, setVideoId] = useState("");
   const [artist, setArtist] = useState("Taylor Swift");
   const toggle = () => {
@@ -59,6 +60,7 @@ export default function RandomTaylorSwiftSong() {
          randomSongName = KanyeWestSongs[randomIndex] + "kanye west";
         console.log(randomSongName)
         setRandomSong(randomSongName);
+        setRandomSongvisible(KanyeWestSongs[randomIndex]);
       }
       // Fetch the YouTube video here using the song title
       const apiKey = `${process.env.REACT_APP_YOUTUBE_API_KEY}`;
@@ -144,7 +146,7 @@ export default function RandomTaylorSwiftSong() {
             </button>
             <div className="text-2xl sm:text-4xl font-bold text-pink-400 /90 text-center">
               
-            {videoId && randomSong}
+            {videoId && randomSongvisible}
             {!videoId && artist=="Kanye West" && <h1>Kanye's version</h1> }
             {!videoId && artist=="Taylor Swift" && <h1> Taylor's version</h1> }
             </div>
