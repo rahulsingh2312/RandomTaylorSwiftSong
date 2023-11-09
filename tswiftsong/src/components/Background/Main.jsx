@@ -32,7 +32,15 @@ const [randomSongvisible , setRandomSongvisible] = useState("");
       setRandomSong(randomSongName);
       console.log(randomSongName)
       }else{
-        Songselection(artist , KanyeWestSongs ,randomSongName ,setRandomSong , setRandomSongvisible)
+        console.log("hi")
+        const randomIndex = Math.floor(
+          Math.random() *
+            KanyeWestSongs.length
+        );
+        console.log(randomIndex)
+         randomSongName = KanyeWestSongs[randomIndex];
+        console.log(randomSongName)
+        setRandomSong(randomSongName);
       }
       // Fetch the YouTube video here using the song title
       const apiKey = `${process.env.REACT_APP_YOUTUBE_API_KEY}`;
