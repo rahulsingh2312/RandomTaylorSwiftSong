@@ -1,8 +1,8 @@
-// import ts from "../../background/ts_1989.svg";
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import YouTube from "react-youtube";
-import KanyeWestSongs from "../../kanyedata";
+import KanyeWestSongs from "../../data/kanyedata";
+import Songselection from "./songselection";
 // import fs from 'fs'
 
 export default function RandomTaylorSwiftSong() {
@@ -10,33 +10,14 @@ export default function RandomTaylorSwiftSong() {
 const [randomSongvisible , setRandomSongvisible] = useState("");
   const [videoId, setVideoId] = useState("");
   const [artist, setArtist] = useState("Taylor Swift");
-  const toggle = () => {
-    setArtist(artist === "Taylor Swift" ? "Kanye West" : "Taylor Swift");
-  };
   const ts = "/Taylor Swift.webp";
   const kw = `/Kanye West.webp`;
   const ts_bg = "/ts_bg.webp";
   const kw_bg = "/kw_bg.webp";
 
   const getRandomSong = async () => {
-    //   console.log('API Key:', process.env.REACT_APP_RAPIDAPI_KEY);
-
-    //   const options = {
-    //     method: 'GET',
-    //     url: 'https://spotify23.p.rapidapi.com/artist_singles/',
-    //     params: {
-    //       id: '06HL4z0CvFAxyc27GXpf02',
-    //       offset: '0',
-    //       limit: '20',
-    //     },
-    //     headers: {
-    //       'X-RapidAPI-Key': `${process.env.REACT_APP_RAPIDAPI_KEY}`,
-    //       'X-RapidAPI-Host': 'spotify23.p.rapidapi.com',
-    //     },
-    //   };
-
     try {
-      var randomSongName = null;
+      let randomSongName = null;
       if(artist=="Taylor Swift"){
       const response = await axios.get(
         "https://server-9nb0.onrender.com/api/taylordata"
@@ -51,16 +32,7 @@ const [randomSongvisible , setRandomSongvisible] = useState("");
       setRandomSong(randomSongName);
       console.log(randomSongName)
       }else{
-        console.log("hi")
-        const randomIndex = Math.floor(
-          Math.random() *
-            KanyeWestSongs.length
-        );
-        console.log(randomIndex)
-         randomSongName = KanyeWestSongs[randomIndex] + "kanye west";
-        console.log(randomSongName)
-        setRandomSong(randomSongName);
-        setRandomSongvisible(KanyeWestSongs[randomIndex]);
+        Songselection(artist , KanyeWestSongs ,randomSongName ,setRandomSong , setRandomSongvisible)
       }
       // Fetch the YouTube video here using the song title
       const apiKey = `${process.env.REACT_APP_YOUTUBE_API_KEY}`;
@@ -110,9 +82,6 @@ const [randomSongvisible , setRandomSongvisible] = useState("");
   // Add an event listener to update the video width on window resize
   window.addEventListener("resize", function () {
     opts.width = getVideoWidth();
-    // Reload the YouTube player with the new width
-    // Assuming you have a reference to the YouTube player instance
-    // player.setSize(opts.width, opts.height);
   });
 
   return (
@@ -135,15 +104,16 @@ const [randomSongvisible , setRandomSongvisible] = useState("");
         <div className=""></div>
         <div className="flex flex-col items-center justify-center gap-6">
           <div>
-            <button
-              onClick={toggle}
-              className="transition ease-in-out w-40 duration-700 text-white mx-20 mb-10 bg-gray-700 hover:bg-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center border border-[#ffffff] inline-flex items-center dark:bg-opacity-60 dark:hover:bg-gray-900 dark:focus:ring-blue-800"
+          <select
+              value={artist}
+              onChange={(e) => setArtist(e.target.value)}
+              
+              className="transition xl:ml-10 ease-in-out w-40 duration-700 text-white bg-gray-700 hover:bg-blue-800 items-center  pl-4 h-10 mb-4 font-medium text-sm dark:bg-opacity-60 dark:hover:bg-gray-900 dark:focus:ring-blue-800"
             >
-              {artist}{" "}
-              <div>
-                <img src="/down.svg" alt=">" className="ml-2" />
-              </div>
-            </button>
+
+              <option value="Taylor Swift">Taylor Swift</option>
+              <option value="Kanye West">Kanye West</option>
+            </select>
             <div className="text-2xl sm:text-4xl font-bold text-pink-400 /90 text-center">
               
             {videoId && randomSongvisible}
